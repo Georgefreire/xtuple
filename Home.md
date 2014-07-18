@@ -1,5 +1,5 @@
 ## xTuple Server
-This is the **Commercial Edition** of the [xTuple Server](https://github.com/xtuple/xtuple-server/wiki).
+This is the **Commercial Edition** of the **[xTuple Server](https://github.com/xtuple/xtuple-server/wiki)**.
 
 ## Wiki
 - **[[0. Quickstart]]**
