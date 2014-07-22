@@ -3,7 +3,7 @@ This is the **Commercial Edition** of the **[xTuple Server](https://github.com/x
 
 ## Need Help?
 
-The best and quickest way to request support and ask questions is to [**file an issue**](https://github.com/xtuple/xtuple-server/issues?state=open) in this repository. 
+The best and quickest way to request support and ask questions is to [**file an issue**](https://github.com/xtuple/xtuple-server-commercial/issues?state=open) in this repository. 
 
 ## Table of Contents
 - **[[0. Quickstart]]**
