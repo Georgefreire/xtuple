@@ -1,0 +1,12 @@
+- Open the box, plug it in, turn it on.
+- Attach it to the network, for the sake of example, let's say that you set it up as `192.168.0.123`.
+- Set up your DNS to point your address to the device's IP. Call us for help. Your address is:
+- Point your browser at your address
+- Screenshot of login screen
+- Log in with username: `admin` and password: 
+- We recommend that you never change the admin password
+- Great! It's working.
+- Install some desktop clients using version:
+- Log in with the same username and password
+- Great! That's working, too.
+
