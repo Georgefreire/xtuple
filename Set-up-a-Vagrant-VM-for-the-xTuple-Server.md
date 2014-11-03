@@ -37,7 +37,7 @@ Need to update an existing xTuple setup? Skip to [here](#update-an-existing-xtup
 
         vagrant ssh
 
-* Once logged into the vagrant box, go back to the [Quickstart](https://github.com/xtuple/xtuple-server-core/wiki/0.-Quickstart) page and follow the instructions there.
+* Once logged into the vagrant box, go back to the [Quickstart](https://github.com/xtuple/xtuple-server/wiki/0.-Quickstart) page and follow the instructions there.
 
 #### Update an existing xTuple Virtual Machine ####
 
