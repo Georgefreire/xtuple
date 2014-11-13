@@ -4,6 +4,19 @@ This is the xTuple Server. It installs, configures, runs, serves, secures, backs
 
 The code in this xtuple-server repository contains a few components of its own, and also encompases all of the code in the [xtuple-server-core](https://github.com/xtuple/xtuple-server-core) repository. 
 
+## Video Walkthrough
+This video series will walk you through the steps of setting up and managing an xTuple Server. It works as a guide to the documents that follow. Please let us know if you have any [feedback](https://github.com/xtuple/xtuple-server/issues).
+
+- Part 1: [Intro and Pre-setup](http://player.vimeo.com/video/101962395)
+- Part 2: [xTuple Server Installation](http://player.vimeo.com/video/101962397)
+- Part 3: [Install xTuple ERP](http://player.vimeo.com/video/101962399)
+- Part 4: [Backup and Restore](http://player.vimeo.com/video/101962401)
+- Part 5: [Copy, Rename, Drop](http://player.vimeo.com/video/101962405)
+- Part 6: [Update xTuple ERP](http://player.vimeo.com/video/102658318)
+
+
+
+
 ## Table of Contents
 - **[0. Quickstart](https://github.com/xtuple/xtuple-server/wiki/0.-Quickstart)**
 - **[1. Install](https://github.com/xtuple/xtuple-server/wiki/1.-Install)**
