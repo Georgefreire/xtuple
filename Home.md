@@ -2,8 +2,6 @@
 
 This is the xTuple Server. It installs, configures, runs, serves, secures, backs up, restores, forks, upgrades, pilots, monitors and manages your xTuple appliance, demo, cloud, or development environment.
 
-The code in this xtuple-server repository contains a few components of its own, and also encompases all of the code in the [xtuple-server-core](https://github.com/xtuple/xtuple-server-core) repository. 
-
 ## Video Walkthrough
 This video series will walk you through the steps of setting up and managing an xTuple Server. It works as a guide to the documents that follow. Please let us know if you have any [feedback](https://github.com/xtuple/xtuple-server/issues).
 
