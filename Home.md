@@ -21,7 +21,7 @@ This video series will walk you through the steps of setting up and managing an 
 - **[2. Manage](https://github.com/xtuple/xtuple-server/wiki/2.-Manage)**
 - **[3. Reference](https://github.com/xtuple/xtuple-server/wiki/3.-Reference)**
 - **[4. Local Development](https://github.com/xtuple/xtuple-server/wiki/4.-Local-Development)**
-- **[5. Extend xTuple Server](https://github.com/xtuple/xtuple-server/wiki/5.-Extend-xTuple-Server)**
+- **[5. Troubleshooting FAQ](https://github.com/xtuple/xtuple-server/wiki/5.-Troubleshooting-FAQ)**
 
 ## Need Help?
 
