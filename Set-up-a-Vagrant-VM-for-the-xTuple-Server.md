@@ -24,8 +24,7 @@ Need to update an existing xTuple setup? Skip to [here](#update-an-existing-xtup
 * Inside of that directory, create a Vagrant configuration file, called a Vagrantfile:
   * You may be able to copy this file directly to your computer with the following command:
         
-           $ curl "https://raw.githubusercontent.com/xtuple/xtuple-
-           vagrant/master/demo/Vagrantfile" -o "Vagrantfile"
+           $ curl "https://raw.githubusercontent.com/xtuple/xtuple-vagrant/master/demo/Vagrantfile" -o "Vagrantfile"
 
   * Or else you can create an empty text file called "Vagrantfile" (no .txt or other extension) and paste in the [content](https://raw.githubusercontent.com/xtuple/xtuple-vagrant/master/demo/Vagrantfile).
 
