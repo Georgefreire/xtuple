@@ -18,23 +18,23 @@ Need to update an existing xTuple setup? Skip to [here](#update-an-existing-xtup
 
 * Navigate to a directory of your choosing, or use these commands to create a new directory:
 
-         $ mkdir xtuple-vagrant
-         $ cd xtuple-vagrant
+         host $ mkdir xtuple-vagrant
+         host $ cd xtuple-vagrant
 
 * Inside of that directory, create a Vagrant configuration file, called a Vagrantfile:
   * You may be able to copy this file directly to your computer with the following command:
         
-           $ curl "https://raw.githubusercontent.com/xtuple/xtuple-vagrant/master/demo/Vagrantfile" -o "Vagrantfile"
+           host $ curl "https://raw.githubusercontent.com/xtuple/xtuple-vagrant/master/demo/Vagrantfile" -o "Vagrantfile"
 
   * Or else you can create an empty text file called "Vagrantfile" (no .txt or other extension) and paste in the [content](https://raw.githubusercontent.com/xtuple/xtuple-vagrant/master/demo/Vagrantfile).
 
 * Once you have a Vagrantfile in the directory, you create and start the xTuple server with the following command:
 
-        $ vagrant up
+        host $ vagrant up
 
 * After the vagrant box has finished loading, log into it with the following command:
 
-        $ vagrant ssh
+        host $ vagrant ssh
 
 * Once logged into the vagrant box, go back to the [Quickstart](https://github.com/xtuple/xtuple-server/wiki/0.-Quickstart) page and follow the instructions there.
 
@@ -42,6 +42,6 @@ Need to update an existing xTuple setup? Skip to [here](#update-an-existing-xtup
 
 If you need to upgrade, use these commands to update an existing setup:
 
-    $ vagrant destroy
-    $ vagrant box update
-    $ vagrant up
+    host $ vagrant destroy
+    host $ vagrant box update
+    host $ vagrant up
