@@ -1,0 +1,1 @@
+Every time we update a sub-package of xtuple-server we should also publish a new version of xtuple-server. We should also shrinkwrap with every version of the xtuple-server!
